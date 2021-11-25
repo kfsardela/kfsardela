@@ -1,7 +1,7 @@
 ### Karine Sardela :woman_technologist:
 
 
-- 💻 Estudante de Front End da [Laboratoria 💛](https://www.laboratoria.la/br)
+- 💻 Full Stack dev na Avanade 
 - 📖 Me aventurando com CSS, HTML, JavaScript,  React e Firebase
 - 📚 Em constante aprendizado
 - 🐶 Apaixonada por dóguinhos
